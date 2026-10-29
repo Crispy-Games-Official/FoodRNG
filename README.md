@@ -46,8 +46,9 @@ V3.1 Lightweight added a light mode feature, allowing users to choose between a 
 
 ### 🛠️ Development Team
 
-The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Dino** helps code more minor updates such as bug fixes and accessibility features. **Kuro** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server.
-
+The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Dino** helps code smaller updates such as bug fixes, accessibility features and events. **Kuro** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server. 
+As of now, **W1LLW4M** (now known as **Astrxx**) has moved on from FoodRNG to focus on new games and **Dino** is now the lead developer.
+ 
 The development process was basically: **build → test → find bugs → fix → add features → test again → improve the design**. 🧪
 
 One example was a bug where the food emoji could sometimes remain stuck on a previous result after rolling a different food. The game's display system was changed so that the most recent roll is stored separately and shown correctly, preventing the equipped food from accidentally overwriting the latest roll.
